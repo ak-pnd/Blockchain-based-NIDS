@@ -1,4 +1,4 @@
-#new_SM.sol (Solidity Smart Contract)
+#new_SM.sol(Solidity Smart Contract)
 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
